@@ -10,9 +10,8 @@
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la **Semana 3 – Experiencia de Aprendizaje 1** de la asignatura *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar las personas vinculadas a **Llanquihue Tour**, una agencia de turismo ubicada en la comuna de Llanquihue, Región de Los Lagos.
-
-El sistema representa entidades clave como clientes y empleados, aplicando los principios de **encapsulamiento**, **composición** y **herencia**, con el fin de digitalizar y estructurar los procesos internos de la agencia que actualmente se gestionan de forma manual.
+Este proyecto corresponde a la Semana 3 – Experiencia de Aprendizaje 1 de la asignatura Desarrollo Orientado a Objetos I. Consiste en un sistema en Java para gestionar las personas de Llanquihue Tour, una agencia de turismo de la Región de Los Lagos.
+El sistema modela clientes y empleados aplicando encapsulamiento, composición y herencia.
 
 ---
 
