@@ -48,13 +48,10 @@ El sistema representa entidades clave como clientes y empleados, aplicando los p
 git clone https://github.com/danielaherrerav/LlanquihueTour.git
 ```
 
-2. Abre el proyecto en **IntelliJ IDEA** (`File > Open` → selecciona la carpeta del proyecto).
-
-3. Verifica que el JDK esté configurado correctamente: `File > Project Structure > SDK`.
+2. Abre el proyecto en IntelliJ IDEA.
 
 4. Ejecuta el archivo `Main.java` desde el paquete `app`:
-   - Clic derecho sobre `Main.java` → **Run 'Main'**
-
+   
 5. Observa los resultados en la consola. Ejemplo de salida esperada:
 
 ```
